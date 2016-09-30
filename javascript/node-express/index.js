@@ -5,7 +5,7 @@ var app = express()
 app.set('port', process.env.PORT || 3000)
 
 app.get('/', function(req, res) {
-  res.json({message: "Hello " +  req.query.name})
+  res.json({message: "Hello " + req.query.name})
 })
 
 app.listen(app.get('port'), function() {

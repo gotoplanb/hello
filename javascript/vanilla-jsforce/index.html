@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jsforce/1.7.0/jsforce.min.js"></script>
+  <script>
+jsforce.browser.init({
+  clientId: '<clientId>',
+  redirectUri: 'https://www.salesforce.com/'
+});
+jsforce.browser.on('connect', function(conn) {
+  conn.query('SELECT Id, Name FROM Account', function(err, res) {
+    if (err) { return console.error(err); }
+    console.log(res);
+  });
+});
+  </script>
+</head>
+<body>
+  <button onclick="javascript:jsforce.browser.login();">Login</button>
+  <h1>Login via Salesforce</h1>
+</body>
+</html>

@@ -1,7 +1,9 @@
 ## Install dependencies
 
 * Node 4.x.x
-* Yarn
+* Brew
+* `sudo chown -R $(whoami) /usr/local`
+* `brew install yarn watchman`
 
 ## Create the React app
 

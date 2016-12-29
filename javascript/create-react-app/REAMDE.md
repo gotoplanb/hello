@@ -1,9 +1,11 @@
 ## Install dependencies
 
-* Node 4.x.x
-* Brew
+* Install Homebrew
+* Install Chrome
+* Install Node 4.x.x
 * `sudo chown -R $(whoami) /usr/local`
 * `brew install yarn watchman`
+* Install [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Create the React app
 

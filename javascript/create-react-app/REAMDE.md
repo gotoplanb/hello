@@ -5,11 +5,18 @@
 * Install Node 4.x.x
 * `sudo chown -R $(whoami) /usr/local`
 * `brew install yarn watchman`
+* `npm i -g getstorybook`
 * Install [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Create the React app
 
 * Follow https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc#.n6i3ktz2m
+
+## Add Storybook to your React app
+
+* Run `getstorybook` from your React app root.
+* Add your buttons to Storybook.
+* Run Storybook server.
 
 ## Create a Restify server secured with Stormpath
 

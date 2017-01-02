@@ -10,7 +10,7 @@
 
 ## Create the React app
 
-* Follow https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc#.n6i3ktz2m
+* Follow [this article series](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc#.n6i3ktz2m) ([source code](https://github.com/Diamond/react-hello-world))
 
 ## Add Storybook to your React app
 

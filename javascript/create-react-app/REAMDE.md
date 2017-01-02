@@ -46,6 +46,7 @@
 * Add the module
 * Configure read, write, admin user groups in Stormpath
 * Limit access on routes read=get, write=get/post/put, admin=get/post/put/delete
+* Configure CORS
 
 ## Update React app to CRUD a resource
 

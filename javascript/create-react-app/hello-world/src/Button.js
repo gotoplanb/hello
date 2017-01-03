@@ -20,7 +20,7 @@ const Button = ({ children, onClick }) => (
 );
 
 Button.propTypes = {
-  children: React.PropTypes.string.isRequired,
+  children: React.PropTypes.string,
   onClick: React.PropTypes.func,
 };
 

@@ -20,6 +20,7 @@
 * Add the HelloWorld component.
 * Update `stories/index.js` to look for `*.stories.js` in same path as components.
 * Add the HelloWorldList component with a decorator to have max-width.
+* Write Jest test for Button as practice.
 
 ## Create a Restify server secured with Stormpath
 

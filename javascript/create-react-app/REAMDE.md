@@ -49,6 +49,13 @@
 * Limit access on routes read=get, write=get/post/put, admin=get/post/put/delete
 * Configure CORS
 
+## Update React app to use Bootstrap
+
+* Move components to `src/components` directory.
+* Update imports and tests.
+* Include Bootstrap.
+* Refactor components to use Bootstrap.
+
 ## Update React app to CRUD a resource
 
 ## Define a soft-delete service with Restify

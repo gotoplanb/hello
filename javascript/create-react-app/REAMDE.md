@@ -19,7 +19,7 @@
 * Read https://getstorybook.io/docs
 * Add the HelloWorld component.
 * Update `stories/index.js` to look for `*.stories.js` in same path as components.
-* 
+* Add the HelloWorldList component with a decorator to have max-width.
 
 ## Create a Restify server secured with Stormpath
 

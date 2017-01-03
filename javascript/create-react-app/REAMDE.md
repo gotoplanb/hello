@@ -11,6 +11,7 @@
 ## Create the React app
 
 * Follow [this article series](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc#.n6i3ktz2m) ([source code](https://github.com/Diamond/react-hello-world))
+* Name your project `client-react` instead of `hello-world`
 
 ## Add Storybook to your React app
 
@@ -24,7 +25,9 @@
 
 ## Create a Restify server secured with Stormpath
 
-* Follow:
+* Follow [this article](https://stormpath.com/blog/build-api-restify-stormpath)
+* Put a .gitignore in each folder.
+* Rename folders to be `server-restify`, `sdk-restify`, and `client-restify`.
 
 ## Serve the React app via Express
 

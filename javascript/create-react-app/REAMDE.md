@@ -54,3 +54,9 @@
 
 * PATCH method to change deleted=true
 * Update GET to only return deleted=false records
+
+# Bonus topics
+
+### Use postgraphql for generating GraphSQL services
+
+* https://github.com/calebmer/postgraphql

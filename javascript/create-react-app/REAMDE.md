@@ -17,7 +17,9 @@
 * Run `getstorybook` from your React app root.
 * Run `yarn run storybook` to start the dev server.
 * Read https://getstorybook.io/docs
-* Add
+* Add the HelloWorld component.
+* Update `stories/index.js` to look for `*.stories.js` in same path as components.
+* 
 
 ## Create a Restify server secured with Stormpath
 

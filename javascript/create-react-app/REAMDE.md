@@ -15,8 +15,9 @@
 ## Add Storybook to your React app
 
 * Run `getstorybook` from your React app root.
-* Add your buttons to Storybook.
-* Run Storybook server.
+* Run `yarn run storybook` to start the dev server.
+* Read https://getstorybook.io/docs
+* Add
 
 ## Create a Restify server secured with Stormpath
 

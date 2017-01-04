@@ -71,6 +71,8 @@
 
 # Bonus topics
 
+### React PropTypes and Flow
+
 ### Use postgraphql for generating GraphSQL services
 
 * https://github.com/calebmer/postgraphql
